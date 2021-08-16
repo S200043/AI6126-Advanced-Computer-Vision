@@ -4,10 +4,15 @@ Nanyang Technological University AY2020/2021 Semester 1
 
 ## Assignment
 
-Homework 1 & 2 - Short Answer Questions
-Project 1 - CelebA Facial Attribute Recognition Challenge
-Project 2 - DIV2K Single Image Super-Resolution Challenge
+**Homework 1 & 2**
+- Short Answer Questions
+
+**Project 1**
+- CelebA Facial Attribute Recognition Challenge
+
+**Project 2**
+- DIV2K Single Image Super-Resolution Challenge
 
 ## Acknowledgement
 
-Lecturer: Prof. Chen Change Loy, Prof. Liu Ziwei
+Lecturers: Prof. Chen Change Loy, Prof. Liu Ziwei
