@@ -32,13 +32,45 @@ To predict attributes for the private dataset, run the code in the "Predict" sec
   - Average accuracy on CelebA test set is 80.27%  
   - Individual Accuracies:  
 
-|                       |                     |                |                 |                  |             |                  |                  |                   |                 |
-|-----------------------|---------------------|----------------|-----------------|------------------|-------------|------------------|------------------|-------------------|-----------------|
-| 5_o_Clock_Shadow      |   Arched_Eyebrows   |   Attractive   | Bags_Under_Eyes |       Bald       |    Bangs    |     Big_Lips     |     Big_Nose     |     Black_Hair    |    Blond_Hair   |
-|       85.74           |        69.95        |      66.67     |      81.36      |       98.59      |    89.81    |       58.50      |       68.55      |       85.19       |      94.91      |
-|      Blurry           |      Brown_Hair     | Bushy_Eyebrows |      Chubby     |    Double_Chin   |  Eyeglasses |      Goatee      |     Gray_Hair    |    Heavy_Makeup   | High_Cheekbones |
-|       95.48           |        67.59        |      76.31     |      91.53      |       91.84      |    99.30    |       89.79      |       97.90      |       88.36       |      84.95      |
-|       Male            | Mouth_Slightly_Open |    Mustache    |   Narrow_Eyes   |     No_Beard     |  Oval_Face  |     Pale_Skin    |    Pointy_Nose   | Receding_Hairline |   Rosy_Cheeks   |
-|       96.52           |        90.27        |      93.43     |      72.59      |       94.49      |    39.21    |       50.93      |       42.61      |       82.10       |      88.70      |
-|     Sideburns         |       Smiling       |  Straight_Hair |    Wavy_Hair    | Wearing_Earrings | Wearing_Hat | Wearing_Lipstick | Wearing_Necklace |  Wearing_Necktie  |      Young      |
-|       86.10           |        92.26        |      59.54     |      62.30      |       70.75      |    98.08    |       93.13      |       56.61      |       84.54       |      74.21      |
+| Feature             | Accuracy |
+|---------------------|----------|
+| 5_o_Clock_Shadow    | 85.74    |
+| Arched_Eyebrows     | 69.95    |
+| Attractive          | 66.67    |
+| Bags_Under_Eyes     | 81.36    |
+| Bald                | 98.59    |
+| Bangs               | 89.81    |
+| Big_Lips            | 58.50    |
+| Big_Nose            | 68.55    |
+| Black_Hair          | 85.19    |
+| Blond_Hair          | 94.91    |
+| Blurry              | 95.48    |
+| Brown_Hair          | 67.59    |
+| Bushy_Eyebrows      | 76.31    |
+| Chubby              | 91.53    |
+| Double_Chin         | 91.84    |
+| Eyeglasses          | 99.30    |
+| Goatee              | 89.79    |
+| Gray_Hair           | 97.90    |
+| Heavy_Makeup        | 88.36    |
+| High_Cheekbones     | 84.95    |
+| Male                | 96.52    |
+| Mouth_Slightly_Open | 90.27    |
+| Mustache            | 93.43    |
+| Narrow_Eyes         | 72.59    |
+| No_Beard            | 94.49    |
+| Oval_Face           | 39.21    |
+| Pale_Skin           | 50.93    |
+| Pointy_Nose         | 42.61    |
+| Receding_Hairline   | 82.10    |
+| Rosy_Cheeks         | 88.70    |
+| Sideburns           | 86.10    |
+| Smiling             | 92.26    |
+| Straight_Hair       | 59.54    |
+| Wavy_Hair           | 62.30    |
+| Wearing_Earrings    | 70.75    |
+| Wearing_Hat         | 98.08    |
+| Wearing_Lipstick    | 93.13    |
+| Wearing_Necklace    | 56.61    |
+| Wearing_Necktie     | 84.54    |
+| Young               | 74.21    |
