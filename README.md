@@ -1,4 +1,4 @@
-# AI6126 Advanced Computer Vision
+# AI6126: Advanced Computer Vision
 
 Nanyang Technological University AY2020/2021 Semester 1
 
